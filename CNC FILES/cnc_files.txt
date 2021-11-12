@@ -1,1 +1,4 @@
 
+
+This folder contains files for the cnc machine, for the manufacture of body parts, buttons and panels
+
