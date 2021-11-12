@@ -10,7 +10,9 @@ Samples are stored on a micro SD card, wav format is supported.
 The firmware is still under development.
 
 https://youtu.be/_ofyAOzehKc
+
 https://youtu.be/i8zc_d4uLBs
+
 https://youtu.be/rUySWEsYK1w
 
 Some photos:
