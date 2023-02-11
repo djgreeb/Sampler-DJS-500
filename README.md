@@ -7,6 +7,10 @@ The sampler supports Pro Dj Link. It automatically selects the master deck, can 
 This allows you to synchronize samples with the track on the air, as well as trigger samples without delays using quantize.
 Samples are stored on a micro SD card, wav format is supported.
 
+https://youtu.be/_ofyAOzehKc
+https://youtu.be/i8zc_d4uLBs
+https://youtu.be/rUySWEsYK1w
+
 # The current firmware version is 1.77
 
 	ver. 0.35
@@ -208,11 +212,8 @@ Samples are stored on a micro SD card, wav format is supported.
 	ver. 1.77
 		- improved performance of Moog Filter and LPF
 
-https://youtu.be/_ofyAOzehKc
-
-https://youtu.be/i8zc_d4uLBs
-
-https://youtu.be/rUySWEsYK1w
+# Menu navigation
+![Menu navigation](https://user-images.githubusercontent.com/17586315/218270290-57c5838d-2754-4a44-8228-09e534868395.png)
 
 Some photos:
 ![1](https://user-images.githubusercontent.com/17586315/141431744-7926b9c0-66c5-4e81-8e79-dfa8d694c17a.jpg)
@@ -264,7 +265,7 @@ Some photos:
 ![Sampler icon ready](https://user-images.githubusercontent.com/17586315/141431831-8637c319-06a1-4d80-bfc9-2d96717a6305.jpg)
 ![Sampler icon](https://user-images.githubusercontent.com/17586315/141431834-006efb59-319c-4041-9213-3527f35dd845.jpg)
 
-![Menu navigation](https://user-images.githubusercontent.com/17586315/218270290-57c5838d-2754-4a44-8228-09e534868395.png)
+
 
 
 
