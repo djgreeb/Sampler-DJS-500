@@ -8,7 +8,9 @@ This allows you to synchronize samples with the track on the air, as well as tri
 Samples are stored on a micro SD card, wav format is supported.
 
 https://youtu.be/_ofyAOzehKc
+
 https://youtu.be/i8zc_d4uLBs
+
 https://youtu.be/rUySWEsYK1w
 
 # The current firmware version is 1.77
