@@ -19,7 +19,7 @@ https://youtu.be/rUySWEsYK1w
 
 	ver. 0.35
 		- added all periph buttons, leds, VRs and encoder
-    	ver. 0.36
+	ver. 0.36
 		- added buttons handler
 	ver. 0.37
 		- added USB USART debug code
