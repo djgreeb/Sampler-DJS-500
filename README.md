@@ -1,4 +1,4 @@
-# Sampler Pioneer DJS-500
+# Sampler Pioneer DJS-500 nexus
 
 
 This is a sampler project that has a design in CDJ-2000 nexus and DJM-900 nexus style. The look and feel and the GUI have the same style. 
@@ -7,7 +7,7 @@ The sampler supports Pro Dj Link. It automatically selects the master deck, can 
 This allows you to synchronize samples with the track on the air, as well as trigger samples without delays using quantize.
 Samples are stored on a micro SD card, wav format is supported.
 
-The current firmware version is 1.77
+# The current firmware version is 1.77
 
 	ver. 0.35
 		- added all periph buttons, leds, VRs and encoder
