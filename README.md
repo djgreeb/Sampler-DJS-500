@@ -7,6 +7,8 @@ The sampler supports Pro Dj Link. It automatically selects the master deck, can 
 This allows you to synchronize samples with the track on the air, as well as trigger samples without delays using quantize.
 Samples are stored on a micro SD card, wav format is supported.
 
+https://youtu.be/_pMT7O0JRTI
+
 https://youtu.be/_ofyAOzehKc
 
 https://youtu.be/i8zc_d4uLBs
