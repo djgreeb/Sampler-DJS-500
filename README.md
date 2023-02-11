@@ -7,7 +7,206 @@ The sampler supports Pro Dj Link. It automatically selects the master deck, can 
 This allows you to synchronize samples with the track on the air, as well as trigger samples without delays using quantize.
 Samples are stored on a micro SD card, wav format is supported.
 
-The firmware is still under development.
+The current firmware version is 1.77
+
+	ver. 0.35
+		- added all periph buttons, leds, VRs and encoder
+    ver. 0.36
+		- added buttons handler
+	ver. 0.37
+		- added USB USART debug code
+		- added first service mode 
+	ver. 0.38
+		- improved encoder noise canceller code
+	ver. 0.41
+		- added service mode code parts
+		-	added ADCs VRs code with hysteresis and filter
+	ver. 0.45
+		- added service mode code parts
+	ver. 0.46
+		- fixed SERVICE MODE code
+	ver. 0.47
+		- added sync out led blink
+	ver. 0.48
+		- the signals from the pads are inverted, the pullups are replaced with pulldowns. It is also changed in the hardware
+	ver. 0.49
+		-	added PWM backlight
+	ver. 0.51
+		-	added PRESETS select display
+	ver. 0.53
+		-	added reading preset preview pads color, rating
+		-	added loading presets from preset list
+		-	added long blink encoder led if the preset is loaded for a very long time 
+	ver. 0.54
+		-	added color instruments icons
+		-	added shadow at the rating stars
+	ver. 0.57
+		-	added sync pitch 
+		-	added imitate deck mode
+		- added blink pads
+	ver. 0.61
+		-	added dynamic timeline on waveforms 
+		-	added colored CUE points and colored samle name
+	ver. 0.63
+		-	added first sequencer
+	ver. 0.65
+		-	minor fixes for the GUI sequencer
+		- added status bar with playback status
+		- added icons for effect and sync. out
+	ver. 0.67
+		-	added on-off pads label
+	ver. 0.68
+		-	minor fixes GUI
+	ver. 0.70
+		-	fixed pad1 RGB led problem
+		-	minor fixes
+	ver. 0.72
+		-	minor GUI fixes
+		- added UTILITY window
+		- added master bpm shield
+	ver. 0.73
+		- added timestamp for pads press moments and filter 
+		-	added ATT_LV for pads
+	ver. 0.74
+		- changed "+" symbol in 15P font
+		-	minol fixes in gui preset list
+		-	added gui.h and audio.h
+	ver. 0.77
+		- added EDIT PRESER window
+		- changed SYNC OUT and EFFECT GUI gray color
+	ver. 0.79
+		- improved debug mode
+		- added interrupt for received uart
+	ver. 0.80
+		-	added processing to the EDIT for the encoder button
+		- changed project structure main.c file is split into many * .h files
+	ver. 0.81
+		-	added preset list edit menu
+	ver. 0.87
+		-	added DELETE DIALOG
+		-	added encoder_handler.h, key_handler.h
+		- improved  DELETE DIALOG
+		-	added noise filter for encoder button
+	ver. 0.88
+		- fixed fixed bugs in GUI UTILITY
+		- improved GUI preset list
+		- improved the mechanism for creating screenshots, using both layers
+	ver. 0.89
+		- improved configuration in ffconf.h
+	ver. 0.90
+		- improved preset list gui
+	ver. 0.91
+		- improved UTILITY
+		- add edit pad display, edit preset display, edit FL display
+	ver. 0.94
+		- improved UTILITY id address set
+	ver. 0.98
+		- added utility edit menu
+		- added internal bpm generator
+	ver. 1.06
+		- added write uSD prc
+	ver. 1.09
+		- added edit preset display
+		- added write preset uSD prc 
+		- added keyboard and rename prc		
+		- added keyboard animation	
+	ver. 1.17
+		- added blinking cursor for kyeboard
+		- added waveform editor
+		- improved edit pad display gui
+		- improved home display gui
+		- added simple waveform analyzer
+	ver. 1.19
+		- improved edit pad display
+		- added prompt for edit pad display
+		- added prompt for edit preset display
+		- added first BROWSER display
+	ver. 1.23
+		- replaced FATFS lib! (previous lib not work USE_LFN for READDIR)
+	ver. 1.25
+		- fixed display of sample names inside folders. Folder removed from title bar
+		- fixed edit pad GUI bugs
+		- added realtime pad color update when editing a pad
+	ver. 1.26
+		- fixed ethernetif.c beat process for external sync
+		- added FLLIST_DISPLAY
+	ver. 1.28
+		- added sequence editor
+	ver. 1.31
+		-	minor fixes
+		-	added [folder] style in BROWSER display
+		-	added dynamic pad in edit pad display gui
+	ver. 1.33
+		-	added first FL presets animation
+	ver. 1.34
+		-	improved FL presets animation
+	ver. 1.35
+		-	added "create new preset" and "create duplicate" process
+	ver. 1.36
+		-	improved "create new preset" and "create duplicate" process
+		- added "preset list is full" and "error x" msg
+		- added automaticly wzoom for waveform
+	ver. 1.37
+		- added noise filters for buttons PRESET, SHIFT, EDIT, BACK, EFFECT
+	ver. 1.39
+		-	added delete prc
+		- fixed display of MAC-address in service mode
+	ver. 1.40
+		- fixed delete prc
+	ver. 1.42
+		- work on the edit fl list
+	ver. 1.43
+		- new FL preset load animation
+	ver. 1.44
+		- added background picture on edit preset display
+		- added FIR filter in WFMCREATE()
+	ver. 1.47
+		-	improved WFMCREATE(), FIR and analising algorythm
+		- the algorithm for displaying a big waveform has been changed
+		-	added a mechanism for creating a template Presets.pst file on an empty sd card
+	ver. 1.48
+		-	changed color map for big waveform (colors from cdj dump)
+	ver. 1.51
+		-	fixed a bug: where inactive pads in the edit_pad_display would start glowing after the pad_x being edited was stopped
+		-	improved edit_pad_display
+	ver. 1.55
+		-	bug fixes in the function REDRAW_PAD_EDIT()
+		- added first move preset display
+	ver. 1.56
+		-	bug fixes in the MOVE_PRESET	
+		-	first move_preser_prc
+	ver. 1.57
+		-	improved move_preser_prc	
+	ver. 1.59
+		-	bug fixes in the function REDRAW_PAD_EDIT()
+		-	added new icons for presets
+	ver. 1.60
+		-	added new icons for presets
+	ver. 1.61
+		-	changed PLL frequency multiplier PeriphClkInitStruct.PLLI2S.PLLI2SN = 271 (135 old)
+	ver. 1.65
+		-	quantize first
+	ver. 1.68
+		-	improved quantize process
+		-	minor fixes
+		-	added first effects
+	ver. 1.69
+		-	improved trans effect process
+	ver. 1.70
+		-	optimized and improved trans effect process
+	ver. 1.71
+		-	added ram fill percentage status
+	ver. 1.73
+		-	optimized HAL_SAI_Transmit_IT
+		-	added uart sync out signal
+	ver. 1.74
+		-	bug fixed in audio handler limiting play_adr size at 0xFFFFF
+		- added errors descriptor
+		-	bug fixed in waveform color draw_st_wvfm()
+	ver. 1.75
+		- changed the principle of operation of SPI2 for PADS LEDs. Now SPI2 works via DMA.
+	ver. 1.77
+		- improved performance of Moog Filter and LPF
 
 https://youtu.be/_ofyAOzehKc
 
