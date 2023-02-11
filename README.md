@@ -263,9 +263,8 @@ Some photos:
 ![IMG_3469](https://user-images.githubusercontent.com/17586315/141431829-15de14c2-b5f2-4f3c-a080-7bdac47fda3a.jpg)
 ![Sampler icon ready](https://user-images.githubusercontent.com/17586315/141431831-8637c319-06a1-4d80-bfc9-2d96717a6305.jpg)
 ![Sampler icon](https://user-images.githubusercontent.com/17586315/141431834-006efb59-319c-4041-9213-3527f35dd845.jpg)
-![screen 080](https://user-images.githubusercontent.com/17586315/141431837-8f2dc5ad-46de-4a98-a692-e614f2282762.jpg)
-![scrn IDEAS](https://user-images.githubusercontent.com/17586315/141431839-a2fbfd25-38d2-4bf7-97a3-382d77f37079.jpg)
-![scrn_2021](https://user-images.githubusercontent.com/17586315/141431841-15c0d820-8b1b-4cef-ba71-c517c86d4783.jpg)
-![scrn_2021_2](https://user-images.githubusercontent.com/17586315/141431842-cd8ac33c-a2c2-4e0f-ada7-8e4742702eae.jpg)
-![scrn_old](https://user-images.githubusercontent.com/17586315/141431845-9b5873ff-3d53-45ba-b25f-06f77b2c2d45.jpg)
-![scrn5](https://user-images.githubusercontent.com/17586315/141431846-81621c3a-8c26-4552-a6e9-71dd24cc82b5.jpg)
+
+![Menu navigation](https://user-images.githubusercontent.com/17586315/218270290-57c5838d-2754-4a44-8228-09e534868395.png)
+
+
+
