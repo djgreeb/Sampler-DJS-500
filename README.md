@@ -1,4 +1,4 @@
-# Sampler Pioneer DJS-500 nexus
+# Sampler DJS-500 nexus
 
 
 This is a sampler project that has a design in CDJ-2000 nexus and DJM-900 nexus style. The look and feel and the GUI have the same style. 
