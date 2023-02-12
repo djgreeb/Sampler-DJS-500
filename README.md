@@ -277,7 +277,6 @@ Some photos:
 ![2020_12_15_12_30_IMG_3423](https://user-images.githubusercontent.com/17586315/141431799-c621ac21-8ee9-4037-87c4-5719d52a3b90.jpg)
 ![2020_12_15_12_30_IMG_3424](https://user-images.githubusercontent.com/17586315/141431802-79a850b4-5a68-4535-a8da-40f1f637a42a.jpg)
 ![2020_12_15_12_31_IMG_3425](https://user-images.githubusercontent.com/17586315/141431804-265ec84a-159d-4326-bddc-61d804f9e77a.jpg)
-![2020_12_15_12_55_IMG_3426](https://user-images.githubusercontent.com/17586315/141431806-bae69b91-2a11-4274-a499-faf826e3a36a.jpg)
 ![2020_12_17_21_16_IMG_3439](https://user-images.githubusercontent.com/17586315/141431809-de2f3838-a97d-46ce-8149-08b64895af04.jpg)
 
 
