@@ -294,5 +294,5 @@ Some photos:
 ![Body 7](https://user-images.githubusercontent.com/17586315/141431825-a68f7368-809b-4010-8eff-ac7c0d038141.jpg)
 ![Body 9](https://user-images.githubusercontent.com/17586315/141431827-d0bae0e8-7057-4a19-ab5f-394c4c0a88a1.jpg)
 ![encoder](https://user-images.githubusercontent.com/17586315/141431828-d2abe15f-e821-4ece-87a9-4b7e83cd0747.jpg)
-![Sampler icon](https://user-images.githubusercontent.com/17586315/141431834-006efb59-319c-4041-9213-3527f35dd845.jpg)
+
 
