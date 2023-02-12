@@ -173,7 +173,7 @@ https://youtu.be/rUySWEsYK1w
 		- the algorithm for displaying a big waveform has been changed
 		- added a mechanism for creating a template Presets.pst file on an empty sd card
 	ver. 1.48
-		- changed color map for big waveform (colors from cdj dump)
+		- changed color map for big waveform
 	ver. 1.51
 		- fixed a bug: where inactive pads in the edit_pad_display would start glowing after the pad_x being edited was stopped
 		- improved edit_pad_display
@@ -242,7 +242,6 @@ https://youtu.be/rUySWEsYK1w
 ![SCREEN_757](https://user-images.githubusercontent.com/17586315/218270636-424b24f2-d654-4bba-be04-71a012b658e6.png)
 ![SCREEN_758](https://user-images.githubusercontent.com/17586315/218270637-f238e8f1-e591-466e-bace-158c412e5069.png)
 ![SCREEN_795](https://user-images.githubusercontent.com/17586315/218270638-e09c61b0-0b25-4ba7-81fc-ad53fd92b32c.png)
-![SCREEN_829](https://user-images.githubusercontent.com/17586315/218270641-4797cfc7-9d26-4ff3-baf5-8063de9603e4.png)
 ![SCREEN_839](https://user-images.githubusercontent.com/17586315/218270643-1472ce0b-4751-49fa-81af-fbfba53c7339.png)
 ![SCREEN_905_new](https://user-images.githubusercontent.com/17586315/218270644-1b2718f4-2e20-4b34-81eb-95def8af30da.png)
 ![SCREEN_956](https://user-images.githubusercontent.com/17586315/218270646-72f0927d-7f5a-4a06-8add-3d222e0b20b4.png)
